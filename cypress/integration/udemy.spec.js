@@ -1,4 +1,4 @@
-describe('Execução de Testes - Curso Cypress / Udemy', function() {
+describe('Curso Cypress / Udemy', function() {
     beforeEach(function(){
         cy.visit('./src/index.html')
     })
