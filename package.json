@@ -1,0 +1,14 @@
+{
+  "name": "cy.udemy",
+  "version": "1.0.0",
+  "description": "Projeto Cypress - Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Caio Castanho",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
